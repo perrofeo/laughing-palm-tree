@@ -2,6 +2,7 @@
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
 	"name": "TODO",
+	"lang": "es",
 	"short_name": "TODO",
 	"display": "minimal-ui",
 	"start_url": "/",
