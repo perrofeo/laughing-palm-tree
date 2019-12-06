@@ -17,7 +17,7 @@
 
 	img {
 		width: 100%;
-		max-width: 400px;
+		max-width: 300px;
 		margin: 0 0 1em 0;
 	}
 
@@ -33,7 +33,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Motxuelo-lab</title>
 </svelte:head>
 
 <h1>¡Éxito!</h1>
@@ -43,4 +43,4 @@
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>E-commerce web apps</strong> with high performance<br>and flexibility for your business or clients.</p>
