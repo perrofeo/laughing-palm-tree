@@ -7,13 +7,22 @@
       flex-wrap: wrap;
       justify-content: center;
       text-align: center;
+      border-top: 1px solid rgba(0,211,201,0.1);
+      padding: 40px 0;
   }
   .footer a {
       text-decoration: none;
   }
+  .links {
+    margin: auto;
+  }
   .links ul{
-      padding: 0;
-      list-style: none;
+    padding: 0;
+    list-style: none;
+    display: flex;
+  }
+  .links li {
+    padding: 10px 10px;
   }
 </style>
 
