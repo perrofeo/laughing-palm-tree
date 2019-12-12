@@ -18,11 +18,7 @@
 	img {
 		width: 100%;
 		max-width: 300px;
-		margin: 0 0 1em 0;
-	}
-
-	p {
-		margin: 1em auto;
+		margin: 0 auto 1em;
 	}
 
 	@media (min-width: 480px) {

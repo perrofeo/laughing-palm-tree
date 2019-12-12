@@ -11,9 +11,14 @@
 </script>
 
 <style>
+    h1 {
+		font-size: 2em;
+	}
 	ul {
 		margin: 0 0 1em 0;
 		line-height: 1.5;
+		list-style: inherit;
+		padding-left: 40px;
 	}
 </style>
 
